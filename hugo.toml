@@ -1,3 +1,51 @@
-baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'My New Hugo Project'
+baseURL = "https://weldband.com/"
+locale = "en-us"
+title = "Weld"
+theme = [ "PaperMod" ]
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+[params]
+env = "production"
+description = "Weld is a high-energy ceilidh band"
+keywords = [ "Ceilidh", "Folk Music", "Dance Band" ]
+author = ""
+DateFormat = "January 2, 2006"
+defaultTheme = "dark"
+disableThemeToggle = true
+ShowReadingTime = false
+ShowShareButtons = false
+ShowPostNavLinks = false
+ShowBreadCrumbs = false
+ShowCodeCopyButtons = false
+ShowWordCount = false
+ShowRssButtonInSectionTermList = false
+UseHugoToc = true
+disableSpecial1stPost = false
+disableScrollToTop = false
+comments = false
+hidemeta = false
+hideSummary = true
+showtoc = false
+tocopen = false
+
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 5
+
+[[menu.main]]
+identifier = "contact"
+name = "Contact"
+url = "/contact/"
+weight = 30
+
+[markup.goldmark.renderHooks.image]
+useEmbedded = "always"
+
+[markup.goldmark.renderHooks.link]
+useEmbedded = "always"
+

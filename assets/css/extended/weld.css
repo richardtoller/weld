@@ -1,0 +1,123 @@
+:root {
+  --primary-bg-colour: #eadaa2;
+  --primary-text-colour: #121314;
+  --hover-text-colour: #904E55;
+  --heading1-colour: #904E55;
+  --heading2-colour: #904E55;
+  --heading3-colour: #BFB48F;
+  --hyperlink-colour: #BFB48F;
+  --bg-colour: #eadaa2;
+}
+
+/* style for the mobile pop-up menu */
+@media screen and (max-width:768px) {
+     .menu {
+     list-style:none;
+     position:absolute;
+     right:0;
+     z-index:5;
+     margin-bottom:var(--gap);
+     padding:var(--gap);
+     background:var(--code-bg);
+     border-radius:var(--radius);
+     border:0px solid var(--tertiary);
+     line-height:1.2;
+     margin:calc(var(--header-height) - var(--gap))var(--gap);
+     display:block
+    }
+    .list .menu {
+     background:var(--entry)
+    }
+    .menu li+li {
+     margin-inline-start:0
+    }
+    #menu-trigger {
+     font-size:30px;
+     position:relative;
+     display:block;
+     float:right;
+     margin:auto var(--gap)
+    }
+    .hidden {
+        display:none
+    }
+}
+
+/* hide the mobile pop-up menu on big screens */
+@media screen and (min-width:769px) {
+    #menu-trigger {
+     display:none
+    }
+}
+
+.logo {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.menu {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.menu a {
+    color:  var(--primary-text-colour);
+    font-family: Helvetica, Verdana, Calibri, sans-serif;
+    font-weight: bold;
+    font-size: 120%;
+}
+
+.menu .active {
+    color: var(--hover-text-colour);
+    font-family: Helvetica, Verdana, Calibri, sans-serif;
+    font-weight: bold;
+    font-size: 120%;
+}
+
+p {
+    color: var(--primary-text-colour);
+}
+
+a {
+    color: var(--hyperlink-colour);
+}
+
+h1 {
+    color: var(--heading1-colour);
+}
+
+h2 {
+    color: var(--heading2-colour);
+}
+
+h3 {
+    color: var(--heading3-colour);
+}
+
+body {
+    margin-top: 0.6%;
+    background-color: var(--bg-colour);
+}
+
+#top {
+    margin-top: 0.6%;
+    background-color: var(--bg-colour);
+}
+
+
+.post-content {
+    margin-top: 0px;
+}
+
+.post-single {
+    margin-top: -30px;
+}
+
+.mc_contact_flex {
+    display: flex;
+}
+
+.mc_contact_flex img{
+    margin-top:0px;
+    margin-left:10px;
+}
