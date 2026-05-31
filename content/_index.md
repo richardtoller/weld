@@ -7,4 +7,4 @@ Weld is a high-energy ceilidh and barn dance band, available for weddings, parti
 {{< youtube Re0tBySyt4A >}}
 {{< line_break >}}
 
-To get in touch, use the details on the [contact](contact) page.
+To get in touch, visit the [contact](contact) page.
