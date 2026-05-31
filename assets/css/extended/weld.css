@@ -107,6 +107,8 @@ figure.bandpic {
 p {
     color: var(--primary-text-colour);
     font-family: Georgia, Garamond, serif;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 a {
@@ -122,17 +124,23 @@ a:hover {
 
 h1 {
     color: var(--heading1-colour);
-    font-family: Georgia, Garamond, serif;    
+    font-family: Georgia, Garamond, serif;   
+    margin-left: 10%; 
 }
 
 h2 {
     color: var(--heading2-colour);
-    font-family: Georgia, Garamond, serif;    
+    font-family: Georgia, Garamond, serif;   
+    margin-left: 10%; 
 }
 
 h3 {
     color: var(--heading3-colour);
-    font-family: Georgia, Garamond, serif;   
+    font-family: Georgia, Garamond, serif;  
+    margin-left: 10%; 
+}
+.md-content h3, .md-content h4, .md-content h5, .md-content h6 {
+    margin-left: 10%;
 }
 
 body {

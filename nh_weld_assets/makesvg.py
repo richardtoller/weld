@@ -42,11 +42,11 @@ f.write ('     id="layer1">\n')
 # the text string
 
 phrases = [
-    " .w.e.l.d ",
-    " .w.e.l.d ",
-    " .w.e.l.d ",
-    " .w.e.l.d ",
-    " .w.e.l.d ",
+    ".w.e.l.d",
+    ".w.e.l.d",
+    ".w.e.l.d",
+    ".w.e.l.d",
+    ".w.e.l.d",
     ".w.e.like.dance",
     ".w.e.like.dance",
     ".w.e.love.dance",
@@ -72,11 +72,11 @@ for n in range(numberofphrases):
 # svg file content
 xstart = 10
 ystart = 10
-charactersperline=60
+charactersperline=80
 xinterval = 2.5
 yinterval = 3.8
-normal_col = "#DDDDDD"
-accent_col = "#BBBBBB"
+normal_col = "#222222"
+accent_col = "#2A2A2A"
 #add_char(f, 'x', xstart, ystart, normal_col)
 xpos = xstart
 ypos = ystart
