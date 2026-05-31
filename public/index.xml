@@ -5,20 +5,92 @@
     <link>http://localhost:1313/</link>
     <description>Recent content in Home on Weld</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>en-gb</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Contact</title>
+      <title></title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p class=&#34;centred_text&#34;&gt;Jethro: accordion, calling&lt;/p&gt;
+&lt;figure class=&#34;bandpic&#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/jethro.jpg&#34;
+         alt=&#34;Jethro&#34; width=&#34;150px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;p class=&#34;centred_text&#34;&gt;Kath: mandolin&lt;/p&gt;
+&lt;figure class=&#34;bandpic&#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/kath.jpg&#34;
+         alt=&#34;Jethro&#34; width=&#34;150px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;p class=&#34;centred_text&#34;&gt;Vicky: fiddle&lt;/p&gt;
+&lt;figure class=&#34;bandpic&#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/vicky.jpg&#34;
+         alt=&#34;Jethro&#34; width=&#34;150px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;p class=&#34;centred_text&#34;&gt;Simon: fiddle, recorder&lt;/p&gt;
+&lt;figure class=&#34;bandpic&#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/simon.jpg&#34;
+         alt=&#34;Jethro&#34; width=&#34;150px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;p class=&#34;centred_text&#34;&gt;Richard: guitar&lt;/p&gt;
+&lt;figure class=&#34;bandpic&#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/richard.jpg&#34;
+         alt=&#34;Jethro&#34; width=&#34;150px&#34;/&gt; 
+&lt;/figure&gt;</description>
+    </item>
+    <item>
+      <title></title>
       <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/contact/</guid>
-      <description>&lt;p&gt;For any questions or to make a booking, please call Richard on 07879 825275 or &lt;a href=&#34;&amp;#109;&amp;#97;&amp;#105;&amp;#108;&amp;#116;&amp;#111;&amp;#58;&amp;#105;&amp;#110;&amp;#102;&amp;#111;&amp;#64;&amp;#109;&amp;#111;&amp;#108;&amp;#101;&amp;#99;&amp;#97;&amp;#116;&amp;#99;&amp;#104;&amp;#101;&amp;#114;&amp;#115;&amp;#46;&amp;#110;&amp;#101;&amp;#116;&#34;&gt;email&lt;/a&gt;
- us. We try to respond to emails within a day or so.&lt;/p&gt;
-&lt;h2 id=&#34;update-obfuscated-email-address&#34;&gt;UPDATE OBFUSCATED EMAIL ADDRESS&lt;/h2&gt;
+      <description>&lt;p&gt;For any questions or to make a booking, please call Richard on 07879 825275 or send us a message with details of your event, below (be sure to click I&amp;rsquo;m not a robot!). We try to respond within a day or so.&lt;/p&gt;
+&lt;p&gt;&lt;form name=&#34;contact&#34; action=&#34;http://localhost:1313/form_success&#34; method=&#34;POST&#34; data-netlify=&#34;true&#34; netlify-honeypot=&#34;bot_field&#34; data-netlify-recaptcha=&#34;true&#34;&gt;
+  &lt;div class=&#34;row&#34;&gt;
+    &lt;p&gt;
+      &lt;label&gt;Your name: &lt;input type=&#34;text&#34; name=&#34;name&#34; /&gt;&lt;/label&gt;
+    &lt;/p&gt; 
+  &lt;/div&gt;
+  &lt;div class=&#34;row&#34;&gt;
+    &lt;p&gt;
+      &lt;label&gt;Your email address: &lt;input type=&#34;email&#34; name=&#34;email&#34; /&gt;&lt;/label&gt;
+    &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;row&#34;&gt;
+    &lt;p&gt;
+      &lt;label&gt;Message: &lt;textarea name=&#34;message&#34;&gt;&lt;/textarea&gt;&lt;/label&gt;
+    &lt;/p&gt;
+  &lt;div data-netlify-recaptcha=&#34;true&#34;&gt; &lt;/div&gt;
+  &lt;div&gt;
+    &lt;p class=&#34;hidden&#34;&gt;
+      &lt;label&gt;Don&#39;t fill this out if you&#39;re human: (ignore): &lt;input name=&#34;bot_field&#34; /&gt;&lt;/label&gt;
+    &lt;/p&gt;
+  &lt;div class=&#34;row&#34;&gt;
+    &lt;p&gt;
+      &lt;button type=&#34;submit&#34; style=&#34;margin-top:20px&#34;&gt;Send&lt;/button&gt;
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/form&gt;
+
+&lt;br /&gt;
+
+&lt;br /&gt;
+
 &lt;div class=&#34;mc_contact_flex&#34;&gt;
-&lt;span&gt;Find us on &lt;a href=&#34;https://facebook.com/molecatchers&#34; target=&#34;_blank&#34;&gt;facebook&lt;/a&gt;:&lt;/span&gt;
-&lt;a href=&#34;https://facebook.com/molecatchers&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/facebook.png&#34; width=&#34;30&#34; alt=&#34;fb logo&#34;&gt;&lt;/a&gt;
-&lt;/div&gt;</description>
+&lt;span&gt;Find us on &lt;a href=&#34;https://instagram.com/weldtheband&#34; target=&#34;_blank&#34;&gt;Instagram&lt;/a&gt;:&lt;/span&gt;
+&lt;a href=&#34;https://instagram.com/weldtheband&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/instapic.png&#34; width=&#34;30&#34; alt=&#34;fb logo&#34;&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/form_success/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/form_success/</guid>
+      <description>&lt;p&gt;Thanks for your message, we&amp;rsquo;ll be in touch soon.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

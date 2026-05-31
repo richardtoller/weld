@@ -1,5 +1,5 @@
 baseURL = "https://weldband.com/"
-locale = "en-us"
+locale = "en-gb"
 title = "Weld"
 theme = [ "PaperMod" ]
 
@@ -35,7 +35,14 @@ tocopen = false
 identifier = "home"
 name = "Home"
 url = "/"
-weight = 5
+weight = 10
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 20
+
 
 [[menu.main]]
 identifier = "contact"
@@ -48,4 +55,11 @@ useEmbedded = "always"
 
 [markup.goldmark.renderHooks.link]
 useEmbedded = "always"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+        title = true
 
