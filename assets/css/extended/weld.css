@@ -16,6 +16,11 @@
   --menu-bg-colour: #13171b;
 }
 
+/* recaptcha alignment */
+.md-content iframe {
+    margin-left: 25%;
+}
+
 figure.bandpic {
     margin-left: 39%;
 }
