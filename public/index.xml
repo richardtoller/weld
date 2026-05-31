@@ -47,7 +47,7 @@
       <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/contact/</guid>
-      <description>&lt;p&gt;For any questions or to make a booking, please call Richard on 07879 825275 or send us a message with details of your event, below (be sure to click I&amp;rsquo;m not a robot!). We try to respond within a day or so.&lt;/p&gt;
+      <description>&lt;p&gt;For any questions or to make a booking, please call Richard on 07879 825275 or send us a message with details of your event, below (be sure to click I&amp;rsquo;m not a robot!). We&amp;rsquo;ll get back to you within a day or so.&lt;/p&gt;
 &lt;p&gt;&lt;form name=&#34;contact&#34; action=&#34;http://localhost:1313/form_success&#34; method=&#34;POST&#34; data-netlify=&#34;true&#34; netlify-honeypot=&#34;bot_field&#34; data-netlify-recaptcha=&#34;true&#34;&gt;
   &lt;div class=&#34;row&#34;&gt;
     &lt;p&gt;
@@ -74,8 +74,6 @@
     &lt;/p&gt;
   &lt;/div&gt;
 &lt;/form&gt;
-
-&lt;br /&gt;
 
 &lt;br /&gt;
 
