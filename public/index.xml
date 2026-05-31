@@ -80,7 +80,7 @@
 &lt;br /&gt;
 
 &lt;div class=&#34;mc_contact_flex&#34;&gt;
-&lt;span&gt;Find us on &lt;a href=&#34;https://instagram.com/weldtheband&#34; target=&#34;_blank&#34;&gt;Instagram&lt;/a&gt;:&lt;/span&gt;
+&lt;span&gt;Find us on &lt;a href=&#34;https://instagram.com/weldtheband&#34; target=&#34;_blank&#34;&gt;Instagram&lt;/a&gt;&lt;/span&gt;
 &lt;a href=&#34;https://instagram.com/weldtheband&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/instapic.png&#34; width=&#34;30&#34; alt=&#34;fb logo&#34;&gt;&lt;/a&gt;
 &lt;/div&gt;
 &lt;/p&gt;</description>
@@ -91,6 +91,28 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/form_success/</guid>
       <description>&lt;p&gt;Thanks for your message, we&amp;rsquo;ll be in touch soon.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/sets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sets/</guid>
+      <description>&lt;h3 id=&#34;32-bar-jigs&#34;&gt;32-bar jigs&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/tunes/Jigs32/CockOfTheNorthOneHundredPipers/CockoftheNorthWiaHundredPipers.pdf&#34;&gt;Cock of the North, Wi&amp;rsquo; a Hundred Pipers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/tunes/Jigs32/TheFlightSevenStars/TheFlightSevenStars.pdf&#34;&gt;The Flight, Seven Stars&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/tunes/Jigs32/HogmanyJigTheQuarryman/HogmanyJigTheQuarryman.pdf&#34;&gt;Hogmany Jig, The Quarryman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/tunes/Jigs32/HuntTheSquirrelCaptLanoes/HuntingtheSquirrelCaptainLanoes.pdf&#34;&gt;Hunting the Squirrel, Captain Lanoe&amp;rsquo;s&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/tunes/Jigs32/MaggieOHamFieldsFoulaShaaldsFoula/MaggieoHamDaFieldsoFoulaDaShaaldsoFoula.pdf&#34;&gt;Maggie o&amp;rsquo;Ham, etc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/tunes/Jigs32/MoneyInBothPocketsMollInTheWood/MoneyinBothPocketsMollInTheWood.pdf&#34;&gt;Money in Both Pockets, Moll in the Wood&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/tunes/Jigs32/PetersPeerieBoatAuldHillGrind/PetersPeerieBoatDaAuldHillGrind.pdf&#34;&gt;Peter&amp;rsquo;s Peerie Boat, Da Auld Hill Grind&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/tunes/Jigs32/RippleOfTheTeignTarsOfTheVictory/RippleoftheTeignTarsoftheVictory.pdf&#34;&gt;Ripple of the Teign, Tars of the Victory&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;48-bar-jigs&#34;&gt;48-bar jigs&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/tunes/Jigs48/AccomplishedMaidValiant/TheAccomplishedMaidTheValiant.pdf&#34;&gt;Accomplished Maid, Valiant&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/tunes/Jigs48/SallySloanesPaddyCarey/PaddyCareySallySloanesBarnDance.pdf&#34;&gt;Paddy Carey, Sally Sloane&amp;rsquo;s&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;slip-jigs&#34;&gt;Slip jigs&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/tunes/Slipjigs/ScotlandPeacock/ScotlandThePeacockFollowedtheHenSirPhilipMcHugh.pdf&#34;&gt;Scotland, Peacock, Sir Philip McHugh&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;polkas&#34;&gt;Polkas&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/tunes/Polkas/ComeDanceAndSingAstleysRide/ComeDanceandSingAstleysRide_notes.pdf&#34;&gt;Come Dance and Sing, Astley&amp;rsquo;s Ride&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

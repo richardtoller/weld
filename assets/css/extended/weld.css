@@ -7,13 +7,13 @@
   --hover-text-colour: #296775;
   --heading1-colour: #e2e9eb;
   --heading2-colour: #e2e9eb;
-  --heading3-colour: #e2e9eb;
+  --heading3-colour: #c2c9cb;
   --button-colour: #296775;  
   --button-colour-hover: #498795;    
   --hyperlink-colour: #296775;
   --hyperlink-colour-hover: #498795;    
   --bg-colour: #070c0f;
-  --menu-bg-colour: #14181c;
+  --menu-bg-colour: #13171b;
 }
 
 figure.bandpic {
@@ -26,7 +26,7 @@ figure.bandpic {
 }
 
 /* style for the mobile pop-up menu */
-@media screen and (max-width:768px) {
+@media screen and (max-width:390px) {
      .menu {
      list-style:none;
      font-size:15px;
@@ -85,22 +85,22 @@ figure.bandpic {
 .menu {
     background-color: var(--menu-bg-colour);
     margin-top: 2%;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 0%;
+    margin-right: 0%;
 }
 
 .menu a {
     color:  var(--menu-text-colour);
     font-family: Verdana, Tahoma, sans-serif;
-    font-weight: bold;
-    font-size: 150%;
+    font-weight: normal;
+    font-size: 100%;
     margin-left: 7px;
     margin-right: 7px;
 }
 
 .menu .active {
     color: var(--active-menu-text-colour);
-    font-weight: bold;
+    font-weight: normal;
     text-decoration: none;
 }
 
@@ -122,14 +122,17 @@ a:hover {
 
 h1 {
     color: var(--heading1-colour);
+    font-family: Georgia, Garamond, serif;    
 }
 
 h2 {
     color: var(--heading2-colour);
+    font-family: Georgia, Garamond, serif;    
 }
 
 h3 {
     color: var(--heading3-colour);
+    font-family: Georgia, Garamond, serif;   
 }
 
 body {
